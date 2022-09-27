@@ -1,0 +1,1387 @@
+{
+  "newarrivals":[
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101104-2_1_533x.jpg?v=1659450395",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101104-3_1_533x.jpg?v=1659450395",
+      "name": "Evermore Ear Cuff Earrings",
+      "srchref": "https://lovoda.com/products/evermore-ear-cuff-earrings",
+      "price": 10.00,
+      "id": 1
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101103-2_1_533x.jpg?v=1659450313",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101103-3_1_533x.jpg?v=1659450313",
+      "name": "Wired Ear Cuff Earrings",
+      "srchref": "https://lovoda.com/products/wired-ear-cuff-earrings",
+      "price": 10.00,
+      "id": 2
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101102-1_1_533x.jpg?v=1659450226",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101102-4_1_533x.jpg?v=1659450231",
+      "name": "Fern Ear Cuff Earrings",
+      "srchref": "https://lovoda.com/products/fern-ear-cuff-earrings",
+      "price": 10.00,
+      "id": 3
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101101-1_1_533x.jpg?v=1659450051",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101101-3_1_533x.jpg?v=1659450054",
+      "name": "Blossom Ear Cuff Earrings",
+      "srchref": "https://lovoda.com/products/blossom-ear-cuff-earrings",
+      "price": 10.00,
+      "id": 4
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101108-3_1_533x.jpg?v=1659449973",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101108-4_1_533x.jpg?v=1659449973",
+      "name": "Barrel Stone Earrings",
+      "srchref": "https://lovoda.com/products/barrel-stone-earrings",
+      "price": 18.00,
+      "id": 5
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101107-G-2_1_533x.jpg?v=1659449908",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101107-G-3_1_533x.jpg?v=1659449908",
+      "name": "Ball Stud Earrings | Gold",
+      "srchref": "https://lovoda.com/products/ball-stud-earrings-gold",
+      "price": 12.00,
+      "id": 6
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101106-G-1_1_533x.jpg?v=1659449836",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101106-G-4_1_533x.jpg?v=1659449841",
+      "name": "Classic Stone Stud Earrings | Gold",
+      "srchref": "https://lovoda.com/products/classic-stone-stud-earrings-gold",
+      "price": 12.00,
+      "id": 7
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101105-1_1_533x.jpg?v=1659449763",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101105-4_1_533x.jpg?v=1659449765",
+      "name": "Acclaim Hoop Earrings",
+      "srchref": "https://lovoda.com/products/acclaim-hoop-earrings",
+      "price": 20.00,
+      "id": 8
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101099-S-2_1_533x.jpg?v=1659449657",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101099-S-3_1_533x.jpg?v=1659449657",
+      "name": "Sunnyside Stud Earrings | Silver",
+      "srchref": "https://lovoda.com/products/sunnyside-stud-earrings-silver",
+      "price": 12.00,
+      "id": 9
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101099-G-1_1_533x.jpg?v=1659449581",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101099-G-4_1_533x.jpg?v=1659449581",
+      "name": "Sunnyside Stud Earrings | Gold",
+      "srchref": "https://lovoda.com/products/sunnyside-stud-earrings-gold",
+      "price": 14.00,
+      "id": 10
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101098-2_1_533x.jpg?v=1659449488",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101098_M_533x.jpg?v=1661279081",
+      "name": "Lace Flower Drop Earrings",
+      "srchref": "https://lovoda.com/products/lace-flower-drop-earrings",
+      "price": 20.00,
+      "id": 11
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101097-1_1_533x.jpg?v=1659449407",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101097-3_1_533x.jpg?v=1659449410",
+      "name": "Nomad Hoop Earrings",
+      "srchref": "https://lovoda.com/products/nomad-hoop-earrings",
+      "price": 18.00,
+      "id": 12
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101096-2_1_533x.jpg?v=1659449305",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101096-3_1_533x.jpg?v=1659449305",
+      "name": "Palm Drop Hoop Earrings",
+      "srchref": "https://lovoda.com/products/palm-drop-hoop-earrings",
+      "price": 16.00,
+      "id": 13
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401041-1_533x.jpg?v=1659449145",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401041-3_533x.jpg?v=1659449166",
+      "name": "Evermore Adjustable Ring",
+      "srchref": "https://lovoda.com/products/evermore-adjustable-ring",
+      "price": 14.00,
+      "id": 14
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401040-1_533x.jpg?v=1659448216",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401040-3_533x.jpg?v=1659448217",
+      "name": "Wreath Adjustable Ring",
+      "srchref": "https://lovoda.com/products/wreath-adjustable-ring",
+      "price": 14.00,
+      "id": 15
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401038-1_533x.jpg?v=1659448105",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401038-3_533x.jpg?v=1659448110",
+      "name": "Infinity Adjustable Ring",
+      "srchref": "https://lovoda.com/products/infinity-adjustable-ring",
+      "price": 14.00,
+      "id": 16
+    },
+
+    
+      {
+        "id": 17,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100370-4__34001_533x.jpg?v=1645111641",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100369-3__28478_533x.jpg?v=1645111643",
+        "name": "Horizon Necklace",
+        "srchref": "https://lovoda.com/products/horizon-necklace",
+        "ssw-review-count": 0,
+        "price": 16.00
+      },
+      {
+        "id": 18,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201009-1__90403_533x.jpg?v=1645115936",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201009-3__65781_533x.jpg?v=1645115938",
+        "name": "Helio Charm Necklace",
+        "srchref": "https://lovoda.com/products/helio-charm-necklace",
+        "ssw-review-count": 0,
+        "price": 18.00
+      },
+      {
+        "id": 19,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100564_1__30590_533x.jpg?v=1645115343",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100564-4__22201_533x.jpg?v=1645115344",
+        "name": "Sparkling Stone Necklace (14K)",
+        "srchref": "https://lovoda.com/products/sparkling-stone-necklace-14k",
+        "ssw-review-count": -1,
+        "price": 14.00
+      },
+      {
+        "id": 20,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200068-1__84305_533x.jpg?v=1645114242",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200068-5__58390_533x.jpg?v=1645114243",
+        "name": "Diamonds Are Forever Necklace (14K)",
+        "srchref": "https://lovoda.com/products/diamonds-are-forever-necklace-14k",
+        "ssw-review-count": 0,
+        "price": 18.00
+      },
+      {
+        "id": 21,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600156-G-1__18778_533x.jpg?v=1645115805",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600156-G-4__61767_533x.jpg?v=1645115807",
+        "name": "Chain Lariat Necklace | Gold (14K)",
+        "srchref": "https://lovoda.com/products/chain-lariat-necklace-gold-14k",
+        "ssw-review-count": 0,
+        "price": 25.00
+      },
+      {
+        "id": 22,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020700077-1__39310_533x.jpg?v=1645116259",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020700077-4__96840_533x.jpg?v=1645116261",
+        "name": "Bubble Layered Lariat Necklace (14K)",
+        "srchref": "https://lovoda.com/products/bubble-layered-lariat-necklace-14k",
+        "ssw-review-count": 0,
+        "price": 24.00
+      },
+      {
+        "id": 23,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100576-2__27755_533x.jpg?v=1645116093",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100576-3__24975_533x.jpg?v=1645116095",
+        "name": "Bubble Chain Choker Necklace",
+        "srchref": "https://lovoda.com/products/bubble-chain-choker-necklace",
+        "ssw-review-count": 0,
+        "price": 16.00
+      },
+      {
+        "id": 24,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100510-3__81857_533x.jpg?v=1645113136",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100510-3__97510_533x.jpg?v=1645113139",
+        "name": "Maddox Circle Charm Necklace | Polished Gold (14K)",
+        "srchref": "https://lovoda.com/products/maddox-circle-charm-necklace-polished-gold-14k",
+        "ssw-review-count": 0,
+        "price": 22.00
+      },
+      {
+        "id": 25,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500158-G-1__97003_533x.jpg?v=1645111184",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500158-2__28336_533x.jpg?v=1645111186",
+        "name": "Rumi Stone Necklace",
+        "srchref": "https://lovoda.com/products/rumi-stone-necklace",
+        "ssw-review-count": 0,
+        "price": 20.00
+      },
+      {
+        "id": 26,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600050-2__02253_533x.jpg?v=1648824851",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600050-3__52178_533x.jpg?v=1648824851",
+        "name": "Maryland Crab Necklace (18K & 24K Gold)",
+        "srchref": "https://lovoda.com/products/maryland-crab-necklace",
+        "ssw-review-count": 0,
+        "price": 18.00
+      },
+      {
+        "id": 27,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201014-2__40509_533x.jpg?v=1645116380",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201014-3__28860_533x.jpg?v=1645116382",
+        "name": "Cassio Charm Necklace",
+        "srchref": "https://lovoda.com/products/cassio-charm-necklace",
+        "ssw-review-count": 0,
+        "price": 18.00
+      },
+      {
+        "id": 28,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201004-B-1__72807_533x.jpg?v=1645116088",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201004-B-2__16458_533x.jpg?v=1645116091",
+        "name": "Snake Chain Necklace",
+        "srchref": "https://lovoda.com/products/snake-chain-necklace",
+        "ssw-review-count": 0,
+        "price": 18.00
+      },
+      {
+        "id": 29,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201002-1__25361_533x.jpg?v=1645116378",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201002-3__96915_533x.jpg?v=1645116380",
+        "name": "La Vie En Rose Charm Necklace",
+        "srchref": "https://lovoda.com/products/la-vie-en-rose-charm-necklace",
+        "ssw-review-count": 0,
+        "price": 18.00
+      },
+      {
+        "id": 30,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200076-2__20665_533x.jpg?v=1645115620",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200076-5__52896_533x.jpg?v=1645115621",
+        "name": "Gold Beaded Chain Necklace",
+        "srchref": "https://lovoda.com/products/gold-beaded-chain-necklace",
+        "ssw-review-count": 0,
+        "price": 18.00
+      },
+      {
+        "id": 31,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100577-2__03781_533x.jpg?v=1645116021",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100577-1__75323_533x.jpg?v=1645116023",
+        "name": "Plain Chain Necklace",
+        "srchref": "https://lovoda.com/products/plain-chain-necklace",
+        "ssw-review-count": 0,
+        "price": 16.00
+      },
+      {
+        "id": 32,
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600093-G-5__25929_533x.jpg?v=1645112100",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600093-G-2__20816_533x.jpg?v=1645112102",
+        "name": "La Vie Necklace (14K)",
+        "srchref": "https://lovoda.com/products/la-vie-necklace-14k",
+        "ssw-review-count": 0,
+        "price": 21.00
+      }
+    
+  ],
+
+
+
+  "necklace":[
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201000-2__49671_533x.jpg?v=1645116352",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201000-3__93474_533x.jpg?v=1645116355",
+      "name": "Samba Charm Necklace",
+      "srchref": "https://lovoda.com/products/samba-charm-necklace",
+      "ssw-review-count": 0,
+      "price": 24.00,
+      "id": 1
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201011-2__52444_533x.jpg?v=1645116103",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201011-3__04676_533x.jpg?v=1645116105",
+      "name": "Othello Layered Necklace",
+      "srchref": "https://lovoda.com/products/othello-layered-necklace",
+      "ssw-review-count": 0,
+      "price": 18.00,
+      "id": 2
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201006-2__28603_533x.jpg?v=1645116368",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201006-3__15448_533x.jpg?v=1645116370",
+      "name": "Double Double Necklace",
+      "srchref": "https://lovoda.com/products/double-double-necklace",
+      "ssw-review-count": 0,
+      "price": 16.00,
+      "id": 3
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201010-1__26041_533x.jpg?v=1645116374",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201010-3__55417_533x.jpg?v=1645116376",
+      "name": "Laertes Layered Necklace",
+      "srchref": "https://lovoda.com/products/laertes-layered-necklace",
+      "ssw-review-count": 0,
+      "price": 18.00,
+      "id": 4
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100575-4__97470_533x.jpg?v=1645115770",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100575-3__08128_533x.jpg?v=1645115772",
+      "name": "Perfect Link Necklace",
+      "srchref": "https://lovoda.com/products/perfect-link-necklace",
+      "ssw-review-count": 0,
+      "price": 18.00,
+      "id": 5
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201005-2__41179_533x.jpg?v=1645115930",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201005-3__67325_533x.jpg?v=1645115932",
+      "name": "Hamlet Layered Necklace",
+      "srchref": "https://lovoda.com/products/hamlet-layered-necklace",
+      "ssw-review-count": 0,
+      "price": 18.00,
+      "id": 6
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020400079-3__32862_533x.jpg?v=1645115394",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/IMG_5090__61478_533x.jpg?v=1645115397",
+      "name": "Shine Bright Y-Necklace (14K)",
+      "srchref": "https://lovoda.com/products/shine-bright-y-necklace-14k",
+      "ssw-review-count": 0,
+      "price": 24.00,
+      "id": 7
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201008-1_533x.jpg?v=1659367885",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201008-3__26789_533x.jpg?v=1659367885",
+      "name": "Laguna Pearl Necklace",
+      "srchref": "https://lovoda.com/products/laguna-pearl-necklace",
+      "ssw-review-count": 0,
+      "price": 18.00,
+      "id": 8
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100370-2__34904_533x.jpg?v=1645113593",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200058__13997_533x.jpg?v=1645113595",
+      "name": "Boheme Stone Necklace (14K)",
+      "srchref": "https://lovoda.com/products/boheme-stone-necklace-14k",
+      "ssw-review-count": 0,
+      "price": 30.00,
+      "id": 9
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500296-3__04809_533x.jpg?v=1645113004",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500295-3__24966_533x.jpg?v=1645113006",
+      "name": "Pixum Compass Stone Necklace",
+      "srchref": "https://lovoda.com/products/pixum-compass-stone-necklace",
+      "ssw-review-count": 0,
+      "price": 20.00,
+      "id": 10
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100463-1__46464_533x.jpg?v=1645112739",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100463-3__29850_533x.jpg?v=1645112741",
+      "name": "Antigone Necklace (14K)",
+      "srchref": "https://lovoda.com/products/antigone-necklace-14k",
+      "ssw-review-count": 0,
+      "price": 18.00,
+      "id": 11
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201024-1_533x.jpg?v=1659370897",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201024-3_533x.jpg?v=1659370898",
+      "name": "Plata Beaded Layered Necklace",
+      "srchref": "https://lovoda.com/products/plata-beaded-layered-necklace",
+      "ssw-review-count": 0,
+      "price": 32.00,
+      "id": 12
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201003-2__32662_533x.jpg?v=1645115924",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201003-3__29983_533x.jpg?v=1645115926",
+      "name": "Stellar Charm Necklace",
+      "srchref": "https://lovoda.com/products/stellar-charm-necklace",
+      "ssw-review-count": 0,
+      "price": 20.00,
+      "id": 13
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100565-2__58904_533x.jpg?v=1645114959",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100565-4__69487_533x.jpg?v=1645114961",
+      "name": "Modern Minimalist Bar Necklace (14K)",
+      "srchref": "https://lovoda.com/products/modern-minimalist-bar-necklace-14k",
+      "ssw-review-count": 0,
+      "price": 14.00,
+      "id": 14
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100562_2__87633_533x.jpg?v=1645115402",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100562-4__94244_533x.jpg?v=1645115404",
+      "name": "Sunset Circle Necklace (14K)",
+      "srchref": "https://lovoda.com/products/sunset-circle-necklace-14k",
+      "ssw-review-count": 0,
+      "price": 14.00,
+      "id": 15
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500260-3__68569_533x.jpg?v=1645112652",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500259-4__26964_533x.jpg?v=1645112654",
+      "name": "Ombre Stone Tear Necklace",
+      "srchref": "https://lovoda.com/products/ombre-stone-tear-necklace",
+      "ssw-review-count": -1,
+      "price": 18.00,
+      "id": 16
+    },
+    {
+      "id": 17,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100370-4__34001_533x.jpg?v=1645111641",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100369-3__28478_533x.jpg?v=1645111643",
+      "name": "Horizon Necklace",
+      "srchref": "https://lovoda.com/products/horizon-necklace",
+      "ssw-review-count": 0,
+      "price": 16.00
+    },
+    {
+      "id": 18,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201009-1__90403_533x.jpg?v=1645115936",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201009-3__65781_533x.jpg?v=1645115938",
+      "name": "Helio Charm Necklace",
+      "srchref": "https://lovoda.com/products/helio-charm-necklace",
+      "ssw-review-count": 0,
+      "price": 18.00
+    },
+    {
+      "id": 19,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100564_1__30590_533x.jpg?v=1645115343",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100564-4__22201_533x.jpg?v=1645115344",
+      "name": "Sparkling Stone Necklace (14K)",
+      "srchref": "https://lovoda.com/products/sparkling-stone-necklace-14k",
+      "ssw-review-count": -1,
+      "price": 14.00
+    },
+    {
+      "id": 20,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200068-1__84305_533x.jpg?v=1645114242",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200068-5__58390_533x.jpg?v=1645114243",
+      "name": "Diamonds Are Forever Necklace (14K)",
+      "srchref": "https://lovoda.com/products/diamonds-are-forever-necklace-14k",
+      "ssw-review-count": 0,
+      "price": 18.00
+    },
+    {
+      "id": 21,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600156-G-1__18778_533x.jpg?v=1645115805",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600156-G-4__61767_533x.jpg?v=1645115807",
+      "name": "Chain Lariat Necklace | Gold (14K)",
+      "srchref": "https://lovoda.com/products/chain-lariat-necklace-gold-14k",
+      "ssw-review-count": 0,
+      "price": 25.00
+    },
+    {
+      "id": 22,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020700077-1__39310_533x.jpg?v=1645116259",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020700077-4__96840_533x.jpg?v=1645116261",
+      "name": "Bubble Layered Lariat Necklace (14K)",
+      "srchref": "https://lovoda.com/products/bubble-layered-lariat-necklace-14k",
+      "ssw-review-count": 0,
+      "price": 24.00
+    },
+    {
+      "id": 23,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100576-2__27755_533x.jpg?v=1645116093",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100576-3__24975_533x.jpg?v=1645116095",
+      "name": "Bubble Chain Choker Necklace",
+      "srchref": "https://lovoda.com/products/bubble-chain-choker-necklace",
+      "ssw-review-count": 0,
+      "price": 16.00
+    },
+    {
+      "id": 24,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100510-3__81857_533x.jpg?v=1645113136",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100510-3__97510_533x.jpg?v=1645113139",
+      "name": "Maddox Circle Charm Necklace | Polished Gold (14K)",
+      "srchref": "https://lovoda.com/products/maddox-circle-charm-necklace-polished-gold-14k",
+      "ssw-review-count": 0,
+      "price": 22.00
+    },
+    {
+      "id": 25,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500158-G-1__97003_533x.jpg?v=1645111184",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500158-2__28336_533x.jpg?v=1645111186",
+      "name": "Rumi Stone Necklace",
+      "srchref": "https://lovoda.com/products/rumi-stone-necklace",
+      "ssw-review-count": 0,
+      "price": 20.00
+    },
+    {
+      "id": 26,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600050-2__02253_533x.jpg?v=1648824851",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600050-3__52178_533x.jpg?v=1648824851",
+      "name": "Maryland Crab Necklace (18K & 24K Gold)",
+      "srchref": "https://lovoda.com/products/maryland-crab-necklace",
+      "ssw-review-count": 0,
+      "price": 18.00
+    },
+    {
+      "id": 27,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201014-2__40509_533x.jpg?v=1645116380",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201014-3__28860_533x.jpg?v=1645116382",
+      "name": "Cassio Charm Necklace",
+      "srchref": "https://lovoda.com/products/cassio-charm-necklace",
+      "ssw-review-count": 0,
+      "price": 18.00
+    },
+    {
+      "id": 28,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201004-B-1__72807_533x.jpg?v=1645116088",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201004-B-2__16458_533x.jpg?v=1645116091",
+      "name": "Snake Chain Necklace",
+      "srchref": "https://lovoda.com/products/snake-chain-necklace",
+      "ssw-review-count": 0,
+      "price": 18.00
+    },
+    {
+      "id": 29,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201002-1__25361_533x.jpg?v=1645116378",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201002-3__96915_533x.jpg?v=1645116380",
+      "name": "La Vie En Rose Charm Necklace",
+      "srchref": "https://lovoda.com/products/la-vie-en-rose-charm-necklace",
+      "ssw-review-count": 0,
+      "price": 18.00
+    },
+    {
+      "id": 30,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200076-2__20665_533x.jpg?v=1645115620",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200076-5__52896_533x.jpg?v=1645115621",
+      "name": "Gold Beaded Chain Necklace",
+      "srchref": "https://lovoda.com/products/gold-beaded-chain-necklace",
+      "ssw-review-count": 0,
+      "price": 18.00
+    },
+    {
+      "id": 31,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100577-2__03781_533x.jpg?v=1645116021",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100577-1__75323_533x.jpg?v=1645116023",
+      "name": "Plain Chain Necklace",
+      "srchref": "https://lovoda.com/products/plain-chain-necklace",
+      "ssw-review-count": 0,
+      "price": 16.00
+    },
+    {
+      "id": 32,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600093-G-5__25929_533x.jpg?v=1645112100",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020600093-G-2__20816_533x.jpg?v=1645112102",
+      "name": "La Vie Necklace (14K)",
+      "srchref": "https://lovoda.com/products/la-vie-necklace-14k",
+      "ssw-review-count": 0,
+      "price": 21.00
+    }
+  ],
+
+  "bracelet":[
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301028-1_533x.jpg?v=1659373883",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301028-3_533x.jpg?v=1659373885",
+      "name": "Feather Cuff Bracelet",
+      "srchref": "https://lovoda.com/products/feather-cuff-bracelet",
+      "ssw-review-count": 0,
+      "price": 18.00,
+      "id": 1
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800023-2__66753_533x.jpg?v=1645115925",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800023-3__70304_533x.jpg?v=1645115927",
+      "name": "Singapore Chain Anklet | Gold",
+      "srchref": "https://lovoda.com/products/singapore-chain-anklet-gold",
+      "ssw-review-count": 0,
+      "price": 16.00,
+      "id": 2
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030700007-3__83567_533x.jpg?v=1645110206",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/crabs_model_1__49622_533x.jpg?v=1645110207",
+      "name": "Maryland Crab Bracelet (18K & 24K Gold)",
+      "srchref": "https://lovoda.com/products/maryland-crab-bracelet-18k-24k-gold",
+      "ssw-review-count": 0,
+      "price": 16.00,
+      "id": 3
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-B-1__23082_533x.jpg?v=1645115370",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-M_M__29172_533x.jpg?v=1645115371",
+      "name": "Blissfully Beaded Bracelet | Black (14K)",
+      "srchref": "https://lovoda.com/products/blissfully-beaded-bracelet-black-14k",
+      "ssw-review-count": 0,
+      "price": 14.00,
+      "id": 4
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-S_2__57973_533x.jpg?v=1645115284",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/040300095_M__13624_533x.jpg?v=1645115285",
+      "name": "Blissfully Beaded Bracelet | Crystal Clear (14K)",
+      "srchref": "https://lovoda.com/products/blissfully-beaded-bracelet-crystal-clear-14k",
+      "ssw-review-count": -1,
+      "price": 14.00,
+      "id": 5
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100135-2__46515_533x.jpg?v=1645114215",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100135_M__47585_533x.jpg?v=1645114217",
+      "name": "Always a Dreamer Bracelet (14K)",
+      "srchref": "https://lovoda.com/products/always-a-dreamer-bracelet-14k",
+      "ssw-review-count": 0,
+      "price": 24.00,
+      "id": 6
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/D877C94B-1__83702_533x.jpg?v=1645110178",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/D877C94B-4__63029_533x.jpg?v=1645110180",
+      "name": "Brushed Sphere Cuff",
+      "srchref": "https://lovoda.com/products/brushed-sphere-cuff",
+      "ssw-review-count": 0,
+      "price": 15.00,
+      "id": 7
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301022-1_533x.jpg?v=1659372919",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301022-4_533x.jpg?v=1659372921",
+      "name": "Fern Cuff Bracelet",
+      "srchref": "https://lovoda.com/products/fern-cuff-bracelet",
+      "ssw-review-count": 0,
+      "price": 18.00,
+      "id": 8
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800010-1__40868_533x.jpg?v=1645116239",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800010-3__96654_533x.jpg?v=1645116241",
+      "name": "Disc Trio Anklet | Gold",
+      "srchref": "https://lovoda.com/products/disc-trio-anklet-gold",
+      "ssw-review-count": 0,
+      "price": 16.00,
+      "id": 9
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800011-2__07524_533x.jpg?v=1645115735",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800011-3__66808_533x.jpg?v=1645115737",
+      "name": "Oval Rolo Chain Anklet",
+      "srchref": "https://lovoda.com/products/oval-rolo-chain-anklet",
+      "ssw-review-count": 0,
+      "price": 16.00,
+      "id": 10
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-C_2__47912_533x.jpg?v=1645115279",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600088-C_M__67191_533x.jpg?v=1645115281",
+      "name": "Blissfully Beaded Bracelet | Maroon (14K)",
+      "srchref": "https://lovoda.com/products/blissfully-beaded-bracelet-maroon-14k",
+      "ssw-review-count": 0,
+      "price": 14.00,
+      "id": 11
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100131-3__59944_533x.jpg?v=1645112936",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100130-3__84440_533x.jpg?v=1645112938",
+      "name": "Beaming Bar Stone Bracelet | Silver",
+      "srchref": "https://lovoda.com/products/beaming-bar-stone-bracelet-silver",
+      "ssw-review-count": 0,
+      "price": 14.00,
+      "id": 12
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100128-3__36637_533x.jpg?v=1645113035",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100129-3__23601_533x.jpg?v=1645113037",
+      "name": "Beaming Bar Stone Bracelet | Rose Gold (14K)",
+      "srchref": "https://lovoda.com/products/beaming-bar-stone-bracelet-rose-gold-14k",
+      "ssw-review-count": 0,
+      "price": 14.00,
+      "id": 13
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030500076-3__41327_533x.jpg?v=1645111993",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030500076-4__41805_533x.jpg?v=1645111995",
+      "name": "Annica Roam Cuff Bracelet",
+      "srchref": "https://lovoda.com/products/annica-roam-cuff-bracelet",
+      "ssw-review-count": 0,
+      "price": 16.00,
+      "id": 14
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100082-3__90754_533x.jpg?v=1645111973",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100082-4__42425_533x.jpg?v=1645111975",
+      "name": "Corinne Chain Bracelet",
+      "srchref": "https://lovoda.com/products/corinne-chain-bracelet",
+      "ssw-review-count": 0,
+      "price": 24.00,
+      "id": 15
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301033-G-1_533x.jpg?v=1659374257",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301033-G-3_533x.jpg?v=1659374320",
+      "name": "Round Stone Tennis Bracelet | Gold",
+      "srchref": "https://lovoda.com/products/round-stone-tennis-bracelet-gold",
+      "ssw-review-count": 0,
+      "price": 25.00,
+      "id": 16
+    },
+
+    
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301011-2_533x.jpg?v=1659372693",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301011-3_533x.jpg?v=1659372693",
+        "name": "Aura Stone Bracelet",
+        "srchref": "https://lovoda.com/products/aura-stone-bracelet",
+        "price": 18.00,
+        "id": 17
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301006-1_533x.jpg?v=1659372258",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301006-3_533x.jpg?v=1659372260",
+        "name": "Sparks Bracelet",
+        "srchref": "https://lovoda.com/products/sparks-bracelet",
+        "price": 18.00,
+        "id": 18
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600080-3__96396_533x.jpg?v=1645114258",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600080-5__26453_533x.jpg?v=1645114259",
+        "name": "Champagne and Sparkles Bracelet",
+        "srchref": "https://lovoda.com/products/champagne-and-sparkles-bracelet",
+        "price": 14.00,
+        "id": 19
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800009-G-2__76796_533x.jpg?v=1645115980",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800009-G-1__00157_533x.jpg?v=1645115982",
+        "name": "Starry Eyed Rhinestone Anklet | Gold",
+        "srchref": "https://lovoda.com/products/starry-eyed-rhinestone-anklet-gold",
+        "price": 16.00,
+        "id": 20
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800019-2__09113_533x.jpg?v=1645116173",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030800019-3__88465_533x.jpg?v=1645116176",
+        "name": "Turquoise Beaded Anklet",
+        "srchref": "https://lovoda.com/products/turquoise-beaded-anklet",
+        "price": 16.00,
+        "id": 21
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100154-1__51077_533x.jpg?v=1645115699",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100154-4__38313_533x.jpg?v=1645115701",
+        "name": "Golden Tassel Bracelet (14K)",
+        "srchref": "https://lovoda.com/products/golden-tassel-bracelet-14k",
+        "price": 14.00,
+        "id": 22
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600087_2__42294_533x.jpg?v=1645115375",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600087_M__06315_533x.jpg?v=1645115376",
+        "name": "Fabled Pearl Beaded Bracelet (14K)",
+        "srchref": "https://lovoda.com/products/fabled-pearl-beaded-bracelet-14k",
+        "price": 16.00,
+        "id": 23
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030400077-V-3__77215_533x.jpg?v=1645114777",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030400077-V-5__13529_533x.jpg?v=1645114778",
+        "name": "Marquise Druzy Bracelet | Cosmic (14K)",
+        "srchref": "https://lovoda.com/products/marquise-druzy-bracelet-cosmic-14k",
+        "price": 22.00,
+        "id": 24
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600076-2__46011_533x.jpg?v=1645113814",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/040100068_M__45177_533x.jpg?v=1645113815",
+        "name": "Gold Pearl Bracelet (14K)",
+        "srchref": "https://lovoda.com/products/gold-pearl-bracelet-14k",
+        "price": 15.00,
+        "id": 25
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030100100_1_of_1__94984_533x.jpg?v=1645113130",
+        "hoverImage": "",
+        "name": "Heart Organ Bracelet",
+        "srchref": "https://lovoda.com/products/heart-organ-bracelet",
+        "price": 14.00,
+        "id": 26
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600060-1__23548_533x.jpg?v=1645112322",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600060-3__47843_533x.jpg?v=1645112324",
+        "name": "Havana Beaded Bracelet | Wine (14K)",
+        "srchref": "https://lovoda.com/products/havana-beaded-bracelet-wine-14k",
+        "price": 12.00,
+        "id": 27
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600064-2__40123_533x.jpg?v=1645112484",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030600064-1__94808_533x.jpg?v=1645112486",
+        "name": "Havana Beaded Bracelet | Lavender Gray (14K)",
+        "srchref": "https://lovoda.com/products/havana-beaded-bracelet-lavender-gray-14k",
+        "price": 12.00,
+        "id": 28
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030500064-2__36132_533x.jpg?v=1645111146",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/030500064-3__76998_533x.jpg?v=1645111148",
+        "name": "Solid Bar Cuff Bracelet",
+        "srchref": "https://lovoda.com/products/solid-bar-cuff-bracelet",
+        "price": 15.00,
+        "id": 29
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301030-1_533x.jpg?v=1659373954",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301030-3_533x.jpg?v=1659374021",
+        "name": "Baguette Stone Tennis Bracelet",
+        "srchref": "https://lovoda.com/products/baguette-stone-tennis-bracelet",
+        "price": 25.00,
+        "id": 30
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301025-G-1_533x.jpg?v=1659373511",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301025-G-4_533x.jpg?v=1659373513",
+        "name": "Wired Cuff Bracelet | Gold",
+        "srchref": "https://lovoda.com/products/wired-cuff-bracelet-gold",
+        "price": 18.00,
+        "id": 31
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301025-S-3_533x.jpg?v=1659373429",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L301025-S-5_533x.jpg?v=1659373429",
+        "name": "Wired Cuff Bracelet | Silver",
+        "srchref": "https://lovoda.com/products/wired-cuff-bracelet-silver",
+        "price": 16.00,
+        "id": 32
+      }
+    
+
+
+  ],
+
+  "earrings":[
+    {
+      "id": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000098-2__43894_533x.jpg?v=1645115759",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000098-3__52395_533x.jpg?v=1645115762",
+      "name": "Rays Of Light Hoops",
+      "srchref": "https://lovoda.com/products/rays-of-light-hoops",
+      "price": 16.00
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101035-1_533x.jpg?v=1647540132",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101035-4_533x.jpg?v=1647540161",
+      "name": "Cyprus Hoop Earrings",
+      "srchref": "https://lovoda.com/products/cyprus-hoop-earrings",
+      "price": 18.00
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101015-1_533x.jpg?v=1646760637",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101015-3_533x.jpg?v=1646760639",
+      "name": "Daisy Post Earrings",
+      "srchref": "https://lovoda.com/products/daisy-post-earrings",
+      "price": 16.00
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101006-2__48799_533x.jpg?v=1645116372",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101006-3__61677_533x.jpg?v=1645116374",
+      "name": "Canal Hoop Earrings",
+      "srchref": "https://lovoda.com/products/canal-hoop-earrings",
+      "price": 18.00
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/01130000-Group-1__11009_533x.jpg?v=1645110215",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011300001-3__08167_533x.jpg?v=1645110216",
+      "name": "Maryland Crab Earrings (18K & 24K Gold)",
+      "srchref": "https://lovoda.com/products/maryland-crab-earrings",
+      "price": 15.00
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101047-C-2_533x.jpg?v=1647541448",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101047-C-4_533x.jpg?v=1647541449",
+      "name": "Classique Hoop Earrings | Amber",
+      "srchref": "https://lovoda.com/products/classique-hoop-earrings-amber",
+      "price": 18.00
+    },
+    {
+      "id": 7,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101044-2_533x.jpg?v=1646760990",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101044-3_533x.jpg?v=1646760990",
+      "name": "Fir Drop Earrings",
+      "srchref": "https://lovoda.com/products/fir-drop-earrings-1",
+      "price": 25.00
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101005-2__93742_533x.jpg?v=1645116076",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101005-3__50209_533x.jpg?v=1645116078",
+      "name": "Simplicity Hoop Earrings",
+      "srchref": "https://lovoda.com/products/simplicity-hoop-earrings",
+      "price": 16.00
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200869-1__78888_533x.jpg?v=1645116301",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200869-3__20407_533x.jpg?v=1645116302",
+      "name": "Blossom Hoop Earrings",
+      "srchref": "https://lovoda.com/products/blossom-hoop-earrings",
+      "price": 14.00
+    },
+    {
+      "id": 10,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000124-3__50511_533x.jpg?v=1645115769",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000124-5__81084_533x.jpg?v=1645115771",
+      "name": "Ginkgo Leaf Hoop Earrings (14K)",
+      "srchref": "https://lovoda.com/products/mermaid-tail-hoop-earrings-14k",
+      "price": 14.00
+    },
+    {
+      "id": 11,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010100535-2__75509_533x.jpg?v=1645114230",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010100535-4__11921_533x.jpg?v=1645114232",
+      "name": "Boss Status Bar Earrings (14K)",
+      "srchref": "https://lovoda.com/products/boss-status-bar-earrings-14k",
+      "price": 14.00
+    },
+    {
+      "id": 12,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010900053-3_533x.jpg?v=1649778263",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010900051-3_533x.jpg?v=1649778263",
+      "name": "Gold & Stone Point Earrings",
+      "srchref": "https://lovoda.com/products/gold-stone-point-earrings",
+      "price": 20.00
+    },
+    {
+      "id": 13,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101049-1_533x.jpg?v=1647606597",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101049-4_533x.jpg?v=1647606605",
+      "name": "Rene Drop Earrings",
+      "srchref": "https://lovoda.com/products/rene-drop-earrings",
+      "price": 21.00
+    },
+    {
+      "id": 14,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101028-2_533x.jpg?v=1647540052",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101028-4_533x.jpg?v=1647540053",
+      "name": "Vinci Ear Jacket",
+      "srchref": "https://lovoda.com/products/vinci-ear-jacket",
+      "price": 21.00
+    },
+    {
+      "id": 15,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200826-C-1__83187_533x.jpg?v=1652369565",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200826-C-3__07211_533x.jpg?v=1652369565",
+      "name": "Rhinestone Wing Earrings | Clear",
+      "srchref": "https://lovoda.com/products/rhinestone-wing-earrings-clear",
+      "price": 14.00
+    },
+    {
+      "id": 16,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010400034-1__46864_533x.jpg?v=1645112191",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010400034-4__16790_533x.jpg?v=1645112193",
+      "name": "Straight Bar Ear Crawlers (14K)",
+      "srchref": "https://lovoda.com/products/straight-bar-ear-crawlers-14k",
+      "price": 15.00
+    },
+
+
+    
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101022-1_533x.jpg?v=1646420964",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101022-4_533x.jpg?v=1646421025",
+        "name": "Starfish Stud Earrings",
+        "srchref": "https://lovoda.com/products/starfish-stud-earrings-1",
+        "price": 21.00,
+        "id": 17
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101007-1__03563_533x.jpg?v=1645115918",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101007-3__20120_533x.jpg?v=1645115919",
+        "name": "Páve Hoop Earrings",
+        "srchref": "https://lovoda.com/products/pave-hoop-earrings",
+        "price": 21.00,
+        "id": 18
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101002-2__09208_533x.jpg?v=1645116367",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101002-3__54691_533x.jpg?v=1645116369",
+        "name": "Northern Star Hoop Earrings",
+        "srchref": "https://lovoda.com/products/northern-star-hoop-earrings",
+        "price": 21.00,
+        "id": 19
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101000-1__90259_533x.jpg?v=1645116340",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101000-3__13840_533x.jpg?v=1645116343",
+        "name": "Esmeralda Hoop Earrings",
+        "srchref": "https://lovoda.com/products/esmeralda-hoop-earrings",
+        "price": 21.00,
+        "id": 20
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000158-2__91578_533x.jpg?v=1645116064",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000158-3__78715_533x.jpg?v=1645116065",
+        "name": "Triangle and Pears Asymmetrical Hoop Earrings",
+        "srchref": "https://lovoda.com/products/triangle-and-pears-asymmetrical-hoop-earrings",
+        "price": 36.00,
+        "id": 21
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200823-1__33324_533x.jpg?v=1645116312",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200823-3__99867_533x.jpg?v=1645116314",
+        "name": "Chase The Rainbow Earrings",
+        "srchref": "https://lovoda.com/products/chase-the-rainbow-earrings",
+        "price": 14.00,
+        "id": 22
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200811-3__30183_533x.jpg?v=1645115706",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200811-1__55316_533x.jpg?v=1645115708",
+        "name": "Gold and Wicker Drop Earrings",
+        "srchref": "https://lovoda.com/products/gold-and-wicker-drop-earrings",
+        "price": 15.00,
+        "id": 23
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010700034-1__36487_533x.jpg?v=1645115732",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010700034-3__78314_533x.jpg?v=1645115734",
+        "name": "Double the Gold Ear Cuff (14K)",
+        "srchref": "https://lovoda.com/products/double-the-gold-ear-cuff-14k",
+        "price": 10.00,
+        "id": 24
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000116-3__45849_533x.jpg?v=1645115441",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000116-5__37345_533x.jpg?v=1645115443",
+        "name": "Tropical Hoop Earrings (14K)",
+        "srchref": "https://lovoda.com/products/tropical-hoop-earrings-14k",
+        "price": 14.00,
+        "id": 25
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011100061-3__81197_533x.jpg?v=1645115470",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011100061-10__74022_533x.jpg?v=1645115472",
+        "name": "On an Adventure Dangle Earrings (14K)",
+        "srchref": "https://lovoda.com/products/on-an-adventure-dangle-earrings-14k",
+        "price": 14.00,
+        "id": 26
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200702-1__27334_533x.jpg?v=1645114848",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/Kate-18__99511_533x.jpg?v=1645114851",
+        "name": "Tropical Vacation Dangle Earrings",
+        "srchref": "https://lovoda.com/products/tropical-vacation-dangle-earrings",
+        "price": 14.00,
+        "id": 27
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010900180-3__97260_533x.jpg?v=1645112845",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010900180-m_1_of_1__99270_533x.jpg?v=1645112847",
+        "name": "Ombre Stone Triangle Earrings",
+        "srchref": "https://lovoda.com/products/ombre-stone-triangle-earrings",
+        "price": 18.00,
+        "id": 28
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010900173-1__67540_533x.jpg?v=1645112683",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010900173-m_1_of_1__48195_533x.jpg?v=1645112685",
+        "name": "Ombre Stone Bar Earrings",
+        "srchref": "https://lovoda.com/products/ombre-stone-bar-earrings",
+        "price": 18.00,
+        "id": 29
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101098-2_1_533x.jpg?v=1659449488",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101098_M_533x.jpg?v=1661279081",
+        "name": "Lace Flower Drop Earrings",
+        "srchref": "https://lovoda.com/products/lace-flower-drop-earrings",
+        "price": 20.00,
+        "id": 30
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101096-2_1_533x.jpg?v=1659449305",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101096-3_1_533x.jpg?v=1659449305",
+        "name": "Palm Drop Hoop Earrings",
+        "srchref": "https://lovoda.com/products/palm-drop-hoop-earrings",
+        "price": 16.00,
+        "id": 31
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200862-1_533x.jpg?v=1659052139",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/010200862-4__02520_533x.jpg?v=1659052139",
+        "name": "Pavé Triplet Hoop Earrings",
+        "srchref": "https://lovoda.com/products/pave-triplet-hoop-earrings",
+        "price": 28.00,
+        "id": 32
+      }
+    
+
+
+
+  ],
+
+
+
+  "rings":[
+    {
+      "id": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401022-7-1_533x.jpg?v=1645729193",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401022-7-3_533x.jpg?v=1645729199",
+      "name": "Ripple Ring",
+      "srchref": "https://lovoda.com/products/ring-21",
+      "price": 14.00
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401014-7-1_533x.jpg?v=1645727998",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401014-7-3_533x.jpg?v=1645728002",
+      "name": "Round and Round Ring",
+      "srchref": "https://lovoda.com/products/ring-13",
+      "price": 14.00
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401020-7-1_533x.jpg?v=1645728953",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401020-7-3_533x.jpg?v=1645728959",
+      "name": "Dreamer Ring",
+      "srchref": "https://lovoda.com/products/ring-19",
+      "price": 14.00
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401021-7-1_533x.jpg?v=1645729096",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401021-7-3_533x.jpg?v=1646420217",
+      "name": "Lucky 3's Ring",
+      "srchref": "https://lovoda.com/products/ring-20",
+      "price": 14.00
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401024-7-1_533x.jpg?v=1645729404",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401024-7-3_533x.jpg?v=1645729420",
+      "name": "Ambition Stone Ring | Pine",
+      "srchref": "https://lovoda.com/products/ring-23",
+      "price": 20.00
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/040500107-g_1_of_3__83424_533x.jpg?v=1645113381",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/040500098-4__56279_533x.jpg?v=1645113384",
+      "name": "Initial Ring | Size 7",
+      "srchref": "https://lovoda.com/products/initial-ring-size-7",
+      "price": 14.00
+    },
+    {
+      "id": 7,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000098-2__43894_533x.jpg?v=1645115759",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011000098-3__52395_533x.jpg?v=1645115762",
+      "name": "Rays Of Light Hoops",
+      "srchref": "https://lovoda.com/products/rays-of-light-hoops",
+      "price": 16.00
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401023-7-1_533x.jpg?v=1645729304",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401023-7-3_533x.jpg?v=1645729312",
+      "name": "Ambition Stone Ring | Dusty Rose",
+      "srchref": "https://lovoda.com/products/ring-22",
+      "price": 20.00
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401005-7-1__25318_533x.jpg?v=1645115953",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401005-7-3__71678_533x.jpg?v=1645115954",
+      "name": "Dimensions Ring",
+      "srchref": "https://lovoda.com/products/dimensions-ring",
+      "price": 12.00
+    },
+    {
+      "id": 10,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401015-7-1_533x.jpg?v=1645728140",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401015-7-2_533x.jpg?v=1645728140",
+      "name": "Bubbly Ring",
+      "srchref": "https://lovoda.com/products/ring-14",
+      "price": 18.00
+    },
+    {
+      "id": 11,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401011-7-1_533x.jpg?v=1645722854",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401011-7-3_533x.jpg?v=1646049249",
+      "name": "All Smiles Ring",
+      "srchref": "https://lovoda.com/products/ring-10",
+      "price": 14.00
+    },
+    {
+      "id": 12,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201000-2__49671_533x.jpg?v=1645116352",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201000-3__93474_533x.jpg?v=1645116355",
+      "name": "Samba Charm Necklace",
+      "srchref": "https://lovoda.com/products/samba-charm-necklace",
+      "price": 24.00
+    },
+    {
+      "id": 13,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101035-1_533x.jpg?v=1647540132",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101035-4_533x.jpg?v=1647540161",
+      "name": "Cyprus Hoop Earrings",
+      "srchref": "https://lovoda.com/products/cyprus-hoop-earrings",
+      "price": 18.00
+    },
+    {
+      "id": 14,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401002-7-1__65640_533x.jpg?v=1645116385",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401002-7-3__41755_533x.jpg?v=1646420236",
+      "name": "Ophelia Ring",
+      "srchref": "https://lovoda.com/products/ophelia-ring",
+      "price": 14.00
+    },
+    {
+      "id": 15,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201011-2__52444_533x.jpg?v=1645116103",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201011-3__04676_533x.jpg?v=1645116105",
+      "name": "Othello Layered Necklace",
+      "srchref": "https://lovoda.com/products/othello-layered-necklace",
+      "price": 18.00
+    },
+    {
+      "id": 16,
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101015-1_533x.jpg?v=1646760637",
+      "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101015-3_533x.jpg?v=1646760639",
+      "name": "Daisy Post Earrings",
+      "srchref": "https://lovoda.com/products/daisy-post-earrings",
+      "price": 16.00
+    },
+
+
+    
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201006-2__28603_533x.jpg?v=1645116368",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201006-3__15448_533x.jpg?v=1645116370",
+        "name": "Double Double Necklace",
+        "srchref": "https://lovoda.com/products/double-double-necklace",
+        "price": 16.00,
+        "id": 17
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401019-7-1_533x.jpg?v=1645728788",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401019-7-3_533x.jpg?v=1645728794",
+        "name": "Braided Ring",
+        "srchref": "https://lovoda.com/products/ring-18",
+        "price": 14.00,
+        "id": 18
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201010-1__26041_533x.jpg?v=1645116374",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201010-3__55417_533x.jpg?v=1645116376",
+        "name": "Laertes Layered Necklace",
+        "srchref": "https://lovoda.com/products/laertes-layered-necklace",
+        "price": 18.00,
+        "id": 19
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100575-4__97470_533x.jpg?v=1645115770",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100575-3__08128_533x.jpg?v=1645115772",
+        "name": "Perfect Link Necklace",
+        "srchref": "https://lovoda.com/products/perfect-link-necklace",
+        "price": 18.00,
+        "id": 20
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/040300108-6-2__12126_533x.jpg?v=1650627952",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/040300108-6-3__19117_533x.jpg?v=1650627952",
+        "name": "Solitary Simplicity Gem Stone Ring",
+        "srchref": "https://lovoda.com/products/solitary-simplicity-gem-stone-ring",
+        "price": 14.00,
+        "id": 21
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401025-7-1_533x.jpg?v=1645729574",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401025-7-3_533x.jpg?v=1645729655",
+        "name": "Ambition Stone Ring | Haze",
+        "srchref": "https://lovoda.com/products/ring-24",
+        "price": 20.00,
+        "id": 22
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401010-7-1__20090_533x.jpg?v=1645116397",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401010-7-3__37928_533x.jpg?v=1645116399",
+        "name": "Bridge Ring",
+        "srchref": "https://lovoda.com/products/bridge-ring",
+        "price": 14.00,
+        "id": 23
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201005-2__41179_533x.jpg?v=1645115930",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201005-3__67325_533x.jpg?v=1645115932",
+        "name": "Hamlet Layered Necklace",
+        "srchref": "https://lovoda.com/products/hamlet-layered-necklace",
+        "price": 18.00,
+        "id": 24
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101006-2__48799_533x.jpg?v=1645116372",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101006-3__61677_533x.jpg?v=1645116374",
+        "name": "Canal Hoop Earrings",
+        "srchref": "https://lovoda.com/products/canal-hoop-earrings",
+        "price": 18.00,
+        "id": 25
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020400079-3__32862_533x.jpg?v=1645115394",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/IMG_5090__61478_533x.jpg?v=1645115397",
+        "name": "Shine Bright Y-Necklace (14K)",
+        "srchref": "https://lovoda.com/products/shine-bright-y-necklace-14k",
+        "price": 24.00,
+        "id": 26
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/01130000-Group-1__11009_533x.jpg?v=1645110215",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/011300001-3__08167_533x.jpg?v=1645110216",
+        "name": "Maryland Crab Earrings (18K & 24K Gold)",
+        "srchref": "https://lovoda.com/products/maryland-crab-earrings",
+        "price": 15.00,
+        "id": 27
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201008-1_533x.jpg?v=1659367885",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L201008-3__26789_533x.jpg?v=1659367885",
+        "name": "Laguna Pearl Necklace",
+        "srchref": "https://lovoda.com/products/laguna-pearl-necklace",
+        "price": 18.00,
+        "id": 28
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401001-6-2__60235_533x.jpg?v=1645115947",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L401001-6-3__11505_533x.jpg?v=1645115949",
+        "name": "Bubbling Adjustable Ring",
+        "srchref": "https://lovoda.com/products/bubbling-adjustable-ring",
+        "price": 18.00,
+        "id": 29
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100370-2__34904_533x.jpg?v=1645113593",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020200058__13997_533x.jpg?v=1645113595",
+        "name": "Boheme Stone Necklace (14K)",
+        "srchref": "https://lovoda.com/products/boheme-stone-necklace-14k",
+        "price": 30.00,
+        "id": 30
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500296-3__04809_533x.jpg?v=1645113004",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020500295-3__24966_533x.jpg?v=1645113006",
+        "name": "Pixum Compass Stone Necklace",
+        "srchref": "https://lovoda.com/products/pixum-compass-stone-necklace",
+        "price": 20.00,
+        "id": 31
+      },
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100463-1__46464_533x.jpg?v=1645112739",
+        "hoverImage": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/020100463-3__29850_533x.jpg?v=1645112741",
+        "name": "Antigone Necklace (14K)",
+        "srchref": "https://lovoda.com/products/antigone-necklace-14k",
+        "price": 18.00,
+        "id": 32
+      }
+    
+
+
+  ]
+
+
+}
