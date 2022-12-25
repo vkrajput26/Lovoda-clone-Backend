@@ -20,6 +20,6 @@
   "homepage": "https://github.com/vkrajput26/Lovoda-clone-Backend#readme",
   "dependencies": {
     "json-server": "^0.17.0",
-    "nodemon": "^2.0.20"
+    
   }
 }
